@@ -1,4 +1,4 @@
-file_max = 3000
+file_max = 1000
 counter = 0
 import requests
 import time
